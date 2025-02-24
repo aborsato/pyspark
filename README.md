@@ -2,6 +2,7 @@
 
 ## References
 - https://github.com/NotAndex/kafka_iot_sim
+- https://github.com/hifly81/kafka-examples
 
 ## Running
 ### Kafka
